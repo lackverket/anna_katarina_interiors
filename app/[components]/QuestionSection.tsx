@@ -18,6 +18,7 @@ const QuestionSection = () => {
             >
               Boka en konsultation
             </button>
+            {/* New value */}
           </div>
         </div>
       </div>
